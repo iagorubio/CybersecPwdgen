@@ -8,7 +8,7 @@ Copy the HTML or JS file where appropiate.
 
 The JS requires jquery and a div with id "pwddiv" where the UI will be embeded.
 
-The HTML file have the javascript already embeded. The required libraries are pulled from google CDN.
+The HTML file has the javascript already embeded. The required libraries are pulled from google CDN.
 
 ## Contributing
 
