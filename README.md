@@ -1,4 +1,4 @@
-# CybersecPwdgenDesktop
+# CybersecPwdgen
 
 
 CybersecPwdgen is a JS application, made for a cyber security course, that generates pseudo random passwords.
